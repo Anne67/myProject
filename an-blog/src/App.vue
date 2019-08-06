@@ -23,7 +23,9 @@
 </script>
 
 <style>
-#app{
-
-}
+  #app{
+    height:1200px;
+    background:url('./assets/2.jpg') no-repeat;
+    background-size:100% 100%;
+  }
 </style>

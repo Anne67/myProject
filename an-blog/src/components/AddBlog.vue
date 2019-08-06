@@ -84,6 +84,7 @@
     box-sizing: border-box;
   }
   #add-blog{
+    background:#fff;
     margin:20px auto;
     max-width:600px;
     padding:20px;
