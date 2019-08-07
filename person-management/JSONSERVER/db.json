@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "王一博",
+      "email": "wangyibo@qq.com",
+      "phone": 18368525311,
+      "companyId": 1
+    },
+    {
+      "id": 2,
+      "name": "夷陵老祖",
+      "email": "lina@qq.com",
+      "phone": 18368525312,
+      "companyId": 2
+    },
+    {
+      "id": 3,
+      "name": "肖战",
+      "email": "xiaozhan@qq.com",
+      "phone": 18368525313,
+      "companyId": 1
+    }
+  ],
+  "compaines": [
+    {
+      "id": 1,
+      "name": "星星娱乐公司",
+      "description": "这是一家不错的娱乐公司"
+    },
+    {
+      "id": 2,
+      "name": "超级娱乐公司",
+      "description": "这也是一家不错的娱乐公司"
+    },
+    {
+      "id": 3,
+      "name": "网易科技",
+      "description": "这也一家技术型公司"
+    }
+  ]
+}
